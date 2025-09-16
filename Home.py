@@ -11,12 +11,8 @@ with col1:
 with col2:
     st.title("Neagu Mihai-Daniel")
     content = """ 
-    Absolvent al Facultății de Energetică, specializarea Energetică și
-Tehnologii Nucleare, cu o bază solidă de cunoștințe teoretice în
-domeniul energetic. Deși nu am experiență practică directă, sunt
-dornic să aplic conceptele învățate și să îmi dezvolt abilitățile întrun mediu profesionist. Sunt motivat să contribui la proiecte
-inovatoare și să învăț într-o echipă dinamică, orientată spre soluții
-sigure și sustenabile în sectorul energetic.
+    Passionate about technology and programming, self-taught with a solid foundation in the fundamental concepts of computer science. 
+    I have taken online courses and developed practical projects that have strengthened my skills in programming, web development, and problem solving.
     """
     st.info(content)
 
