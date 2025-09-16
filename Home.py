@@ -12,7 +12,7 @@ with col2:
     st.title("Neagu Mihai-Daniel")
     content = """ 
     Passionate about technology and programming, self-taught with a solid foundation in the fundamental concepts of computer science. 
-    I have taken online courses and developed practical projects that have strengthened my skills in programming, web development, and problem solving.
+    I have taken online courses and developed practical projects that have strengthened my skills in programming, web development and problem solving.
     """
     st.info(content)
 
