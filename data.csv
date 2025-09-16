@@ -4,6 +4,6 @@ Portfolio Website;A website built entirely in Python to showcase coding projects
 PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/MihaiNeagu9/PDF_Maker_App;3.png
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/MihaiNeagu9/Invoice_Generator_App;4.png
 News Email App API;This app accesses news about a particular topic and sends them by email.;https://github.com/MihaiNeagu9/NewsAPI_Email_App;5.png
-Hotel Booking App;A simple Object-Oriented Python project that simulates a hotel booking system with credit card validation.;https://github.com/MihaiNeagu9/Hotel_Booking_OOP;6.png
-Web App Form Flask;A simple Flask web application that allows users to fill out and submit a job application form.;https://github.com/MihaiNeagu9/Web-App-Flask-Form;7.png
-Web App Form Django;A simple Django web app that allows candidates to submit job applications online.;https://github.com/MihaiNeagu9/Web-App-Django-Form;8.png
+Hotel Booking App;A simple Object-Oriented Python project that simulates a hotel booking system with credit card validation.;https://github.com/MihaiNeagu9/Hotel_Booking_OOP;13.png
+Web App Form Flask;A simple Flask web application that allows users to fill out and submit a job application form.;https://github.com/MihaiNeagu9/Web-App-Flask-Form;15.png
+Web App Form Django;A simple Django web app that allows candidates to submit job applications online.;https://github.com/MihaiNeagu9/Web-App-Django-Form;16.png
